@@ -1,0 +1,35 @@
+Real-Time Prediction Log
+========================
+
+[01] Detected: MALICIOUS | Expected: MALICIOUS
+[02] Detected: MALICIOUS | Expected: MALICIOUS
+[03] Detected: MALICIOUS | Expected: MALICIOUS
+[04] Detected: MALICIOUS | Expected: MALICIOUS
+[05] Detected: BENIGN | Expected: BENIGN
+[06] Detected: BENIGN | Expected: BENIGN
+[07] Detected: MALICIOUS | Expected: MALICIOUS
+[08] Detected: MALICIOUS | Expected: MALICIOUS
+[09] Detected: MALICIOUS | Expected: MALICIOUS
+[10] Detected: BENIGN | Expected: BENIGN
+[11] Detected: BENIGN | Expected: BENIGN
+[12] Detected: MALICIOUS | Expected: MALICIOUS
+[13] Detected: BENIGN | Expected: BENIGN
+[14] Detected: MALICIOUS | Expected: MALICIOUS
+[15] Detected: MALICIOUS | Expected: MALICIOUS
+[16] Detected: MALICIOUS | Expected: MALICIOUS
+[17] Detected: BENIGN | Expected: BENIGN
+[18] Detected: BENIGN | Expected: BENIGN
+[19] Detected: MALICIOUS | Expected: MALICIOUS
+[20] Detected: BENIGN | Expected: BENIGN
+[21] Detected: MALICIOUS | Expected: MALICIOUS
+[22] Detected: MALICIOUS | Expected: MALICIOUS
+[23] Detected: MALICIOUS | Expected: MALICIOUS
+[24] Detected: MALICIOUS | Expected: MALICIOUS
+[25] Detected: MALICIOUS | Expected: MALICIOUS
+[26] Detected: BENIGN | Expected: BENIGN
+[27] Detected: MALICIOUS | Expected: MALICIOUS
+[28] Detected: MALICIOUS | Expected: MALICIOUS
+[29] Detected: MALICIOUS | Expected: MALICIOUS
+[30] Detected: BENIGN | Expected: BENIGN
+
+Overall Accuracy on 30 simulated entries: 100.00%
