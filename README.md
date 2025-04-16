@@ -11,7 +11,7 @@ models/ # Trained machine learning models (.pkl)
 reports/ # Evaluation metrics, simulation logs
 
 
-## 📊 What This Project Does
+## What This Project Does
 
 - Loads a real-world dataset (CICIDS2017 or CIC-DDoS2019)  
 - Cleans, processes, and labels network traffic  
